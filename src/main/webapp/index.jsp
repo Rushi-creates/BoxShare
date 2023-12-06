@@ -10,15 +10,7 @@
 </head>
 <body class="font-sans flex flex-col h-screen">
 
-  <!-- ----------------------------------------------------------------------- -->
-  <!--                                 !navbar                                 -->
-  <!-- ----------------------------------------------------------------------- -->
-
-  <nav class="bg-gradient-to-r from-violet-700 to-purple-400 text-white flex-shrink-0 flex items-center pl-10 pr-10 min-h-[12vh] h-auto">
-    <img src="./share_box_logo.png" alt="Local Image" class="w-10 h-10 object-cover">
-    <div class="w-5"></div>
-    <p class="text-white text-[30px] font-bold font-['Inter']">BoxShare</p>
-  </nav>
+ <%@ include file="navbar.jsp" %>
 
   <!-- ----------------------------------------------------------------------- -->
   <!--                                  !body                                  -->

@@ -2,7 +2,8 @@
 
 BoxShare is a temporary file-sharing platform where users can upload, share, and search files using a unique Box ID. Anyone with the Box ID can search for and view the files, but the data is only accessible during the active session. Users can also add new files to a shared Box, making it a quick and efficient way to temporarily share files with others.
 
-Features
+# Features
+
 File Upload: Users can upload files to a shared Box.
 File Search and View: Files can be searched and viewed using a unique Box ID.
 Temporary Storage: Files remain accessible only for the duration of the current session.
